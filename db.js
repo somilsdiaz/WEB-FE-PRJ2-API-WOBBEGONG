@@ -4,8 +4,6 @@ const dataCategory = require("./data/dataCategory");
 
 module.exports = () => {
   return {
-    stakeholders,
-   courses,
    dataCategory,
   };
 };
