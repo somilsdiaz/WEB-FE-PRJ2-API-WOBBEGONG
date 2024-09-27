@@ -1,7 +1,7 @@
 const promoImages = [
   {
     id: 1,
-    src: "https://web-fe-html-css-prj2-wobbegong.onrender.com/assets/iniciotop.svg",
+    src: "https://web-fe-html-css-prj2-wobbegong.onrender.com/src/assets/iniciotop.svg",
     alt: "Imagen promocional 1",
   },
   {
