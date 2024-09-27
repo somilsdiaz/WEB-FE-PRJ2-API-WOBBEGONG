@@ -16,4 +16,4 @@ const promoImages = [
   },
 ];
 
-export default promoImages;
+module.exports = promoImages; 
