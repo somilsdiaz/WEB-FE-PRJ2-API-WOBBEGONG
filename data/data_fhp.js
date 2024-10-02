@@ -2,7 +2,7 @@ const productos = [
     {
         id: 1,
         nombre: "Airpods Pro 2da Gen",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-airpods-cn48aNLm.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-airpods.png',
         precioNormal: 400.00,
         precioDescuento: 320.00,
         descuento: 20,
@@ -11,7 +11,7 @@ const productos = [
     {
         id: 2,
         nombre: "Airpods Pro Max",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-airpodspm-D_iaDHbq.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-airpodspm.png',
         precioNormal: 600.00,
         precioDescuento: 540.00,
         descuento: 10,
@@ -20,7 +20,7 @@ const productos = [
     {
         id: 3,
         nombre: "Apple Watch Ultra",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-applew-9tuccMSj.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-applew.png',
         precioNormal: 320.00,
         precioDescuento: 256.00,
         descuento: 20,
@@ -29,7 +29,7 @@ const productos = [
     {
         id: 4,
         nombre: "Galaxy Tab S6",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-galaxytabs6-DIpc9CSs.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-galaxytabs6.png',
         precioNormal: 550.00,
         precioDescuento: 385.00,
         descuento: 30,
@@ -38,7 +38,7 @@ const productos = [
     {
         id: 5,
         nombre: "Galaxy Watch FE",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-samsumgsw-CMYkoPRP.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-samsumgsw.png',
         precioNormal: 300.00,
         precioDescuento: 285.00,
         descuento: 5,
@@ -47,7 +47,7 @@ const productos = [
     {
         id: 6,
         nombre: "iMac 24 pulgadas",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-imac-C9KSqpVd.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-imac.png',
         precioNormal: 3000.00,
         precioDescuento: 2400.00,
         descuento: 20,
@@ -56,7 +56,7 @@ const productos = [
     {
         id: 7,
         nombre: "iPad Pro",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-ipadpro-Bly4j1Mr.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-ipadpro.png',
         precioNormal: 700.00,
         precioDescuento: 595.00,
         descuento: 15,
@@ -65,7 +65,7 @@ const productos = [
     {
         id: 8,
         nombre: "iPhone 15",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-iphone15p-DtyBVIIw.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-iphone15p.png',
         precioNormal: 999.00,
         precioDescuento: 899.00,
         descuento: 10,
@@ -74,7 +74,7 @@ const productos = [
     {
         id: 9,
         nombre: "iPhone 15 Pro Max",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-iphone15pm-CEH4M8ee.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-iphone15pm.png',
         precioNormal: 1099.00,
         precioDescuento: 1044.00,
         descuento: 5,
@@ -83,7 +83,7 @@ const productos = [
     {
         id: 10,
         nombre: "Galaxy S24",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-samsungs24-WcQatCwR.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-samsungs24.png',
         precioNormal: 999.00,
         precioDescuento: 800.00,
         descuento: 20,
@@ -92,7 +92,7 @@ const productos = [
     {
         id: 11,
         nombre: "Galaxy S24 Ultra",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-samsungs24ultra-C5jqIrNB.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-samsungs24ultra.png',
         precioNormal: 1199.00,
         precioDescuento: 839.00,
         descuento: 30,
@@ -101,7 +101,7 @@ const productos = [
     {
         id: 12,
         nombre: "Vision Pro",
-        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-visionpro-fFYgpVn8.png',
+        imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-visionpro.png',
         precioNormal: 3499.00,
         precioDescuento: 3149.00,
         descuento: 10,
