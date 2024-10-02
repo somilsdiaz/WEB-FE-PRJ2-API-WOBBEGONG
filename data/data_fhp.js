@@ -108,4 +108,6 @@ const productos = [
         ruta: "",
     },
     ];
+
+    module.exports = productos;
     
