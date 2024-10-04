@@ -14,6 +14,11 @@ const promoImages = [
     src: "https://web-fe-html-css-prj2-wobbegong.onrender.com/iniciolow.svg",
     alt: "Imagen promocional 3",
   },
+  {
+    id: 4,
+    src: "https://web-fe-html-css-prj2-wobbegong.onrender.com/plpbanner.svg",
+    alt: "Imagen promocional 4",
+  },
 ];
 
 module.exports = promoImages; 
