@@ -133,7 +133,7 @@ const productos = [
     },
     {
         id: 12,
-        nombre: "Vision Pro",
+        nombre: "Vision Pro ",
         imagen: 'https://web-fe-html-css-prj2-wobbegong.onrender.com/pd-visionpro.png',
         precioNormal: "13.996.000",
         precioDescuento: "12.596.000",
